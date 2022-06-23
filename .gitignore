@@ -1,4 +1,10 @@
-# Mac
+# Ignore all hidden files
+.*
+
+# Do not exlude this hidden file
+!.gitignore
+
+# Mac related hidden files
 .DS_Store
 
 # Google Drive
