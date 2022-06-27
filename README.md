@@ -54,4 +54,36 @@ The data for this example comes from Kaggle: [Palmer Archipelago (Antartica) pen
 1. Run `boxplot-comprisons.ipynb` to see comparison of boxplots.
 1. Run `boxplot-whisker-explanation.ipynb` to learn about boxplot meaning and design
 
-<br>
+<br>  
+
+## Examples  
+
+<figure>
+
+![Pandas Box Plot](./images/pandas.png)
+<figcaption>Fig.1 - Pandas Box Plot</figcaption>
+</figure>
+
+<figure>
+
+![Matplotlib Box Plot](./images/matplotlib.png)
+<figcaption>Fig.2 - Matplotlib Box Plot</figcaption>
+</figure>
+
+<figure>
+
+![Plotly Box Plot](./images/plotly-python.png)
+<figcaption>Fig.3 - Python Plotly Express Box Plot</figcaption>
+</figure>
+
+<figure>
+
+![Seaborn Box Plot](./images/seaborn.png)
+<figcaption>Fig.4 - Seaborn Box Plot</figcaption>
+</figure>
+
+<figure>
+
+![Seaborn Advanced Box Plot](./images/seaborn-advance.png)
+<figcaption>Fig.1 - Seaborn Advanced Box Plot</figcaption>
+</figure>
